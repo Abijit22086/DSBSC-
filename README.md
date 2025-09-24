@@ -74,6 +74,8 @@ Output Graph
 
 
 Tablular Column
+![exp2_tab](https://github.com/user-attachments/assets/55bd5586-4051-4b55-871f-0b746bc05eaf)
+
 
 
 Result
